@@ -1,7 +1,7 @@
 import sys
 
 def main():
-    print("Hello World close to C++ framework")
+    print("Hello World close to C++")
 
     sys.exit(0)
 
